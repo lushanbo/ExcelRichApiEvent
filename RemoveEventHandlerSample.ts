@@ -1,11 +1,7 @@
-name: Remove Event's handler
-
+name: Remove Event's handle
 description: Test remove Excel Events
-
 author: Shanbo
-
 host: EXCEL
-
 api_set: {}
 
 script:
